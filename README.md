@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junaid Hasan</h1>
 <h3 align="center">A passionate Programmer, front-end Developer and Designer</h3>
 
-<(img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600%2Ch_900%2Cal_c%2Cq_90/file.jpg">
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600%2Ch_900%2Cal_c%2Cq_90/file.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid006&label=Profile%20views&color=0eb440&style=flat" alt="junaid006" /> </p>
 
